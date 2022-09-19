@@ -1,0 +1,28 @@
+h1{
+    color: rgb(157, 9, 90);
+    font-style: oblique;
+    border-style:outset;
+    border-bottom-left-radius:1ch;
+    border-color: rgb
+    (165, 75, 42);
+}
+*{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-iiZ8crRZkdPb7wf6ZR0Uopp7BKu-1yS5sA&usqp=CAU);
+    border-width: 1mm;
+    border-color: gray;
+}
+#name{
+    color:green;
+    font-style: italic;
+}
+.abc{
+    color: brown;
+}
+h3,h4{
+    color: rgb(197, 18, 51);
+    font-style: oblique;
+}
+table
+{
+    border-style: ridge;
+}
